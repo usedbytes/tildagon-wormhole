@@ -1,15 +1,15 @@
 [app]
 # The name of your app as displayed in the menu
-name = "Demo App"
+name = "Wormhole"
 
 # The submenu where your app should appear.
 # One of: "Badge", "Music", "Media", "Apps", "Games"
-category = "Badge"
+category = "Media"
 
 # OPTIONAL: Same as above, for compatibility with older firmware
 # versions that can't handle categories introduced afterwards.
 # One of: "Badge", "Music", "Apps"
-# menu = "Badge"
+menu = "Apps"
 
 # OPTIONAL: If your app prefers wifi to be off or on when entering.
 # Useful if you want more resources (false) or need wifi (true).
@@ -22,7 +22,7 @@ category = "Badge"
 
 [metadata]
 # Your nickname.  Must be at most 32 characters!
-author = "hughrawlinson"
+author = "usedbytes"
 
 # License of your app as an SPDX identifier: <https://spdx.org/licenses/>
 license = "LGPL-3.0-only"
